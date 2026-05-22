@@ -62,7 +62,7 @@ An embedded systems project using Arduino hardware and C++ control logic.
 ## Connect
 
 * GitHub: [@jkook9513](https://github.com/jkook9513)
-* LinkedIn: [@jonathankook](https://linkedin.com/jonathankook)
+* LinkedIn: [@jonathankook](www.linkedin.com/in/jonathankook)
 * Email: jkook95133@gmail.com
 
 ---
